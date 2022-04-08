@@ -7,7 +7,7 @@ class Item {
     Double price;
 
     Item(String n, Double p){
-        name = n;
-        price = p;
+        this.name = n;
+        this.price = p;
     }
 }

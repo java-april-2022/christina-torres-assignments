@@ -12,6 +12,7 @@ public class Test {
         Order order2 = new Order("peanut", cookie);
         order1.getStatus();
         order1.setReady();
+        order2.getObjectMethods();
     }
 
 }

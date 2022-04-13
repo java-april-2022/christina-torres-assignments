@@ -1,3 +1,4 @@
+package CafeFun;
 import java.util.*;
 
 class CafeUtil {
@@ -41,7 +42,6 @@ class CafeUtil {
         System.out.println("New Customers:");
         for (String i : e) System.out.println( i.toUpperCase() );
     }
-
     public static void main(String[] args){
     }
 }
